@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I am Chris 👋
+
+I am interested in linking structural/wind engineering with computational methods such as CFD to improve efficiency and optimize designs.
+I enjoy teaching others to leverage the computational tools available to improve their work and lives.
+
 
 <!--
 **chowlet5/chowlet5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
