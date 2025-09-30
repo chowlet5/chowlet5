@@ -5,7 +5,8 @@ I enjoy teaching others to leverage the computational tools that are openly avai
 
 ### Flow Visualization
 The following image is generating using a custom analysis pipeline which combines OpenFOAM, Paraview, and Blender.
-<img src="CAARC_0_Streamline.png" width="150" height="280">
+
+<img src="CAARC_0_Streamline.png" height="500">
 
 
 
