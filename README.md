@@ -1,7 +1,10 @@
 ## Hi there, I am Chris 👋
 
 I am interested in linking structural/wind engineering with computational methods such as CFD to improve efficiency and optimize designs.
-I enjoy teaching others to leverage the computational tools available to improve their work and lives.
+I enjoy teaching others to leverage the computational tools that are openly available to them in order to improve their workflows.
+
+
+
 
 
 <!--
