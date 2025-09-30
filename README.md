@@ -3,8 +3,9 @@
 I am interested in linking structural/wind engineering with computational methods such as CFD to improve efficiency and optimize designs.
 I enjoy teaching others to leverage the computational tools that are openly available to them in order to improve their workflows.
 
-
-
+### Flow Visualization
+The following image is generating using a custom analysis pipeline which combines OpenFOAM, Paraview, and Blender.
+![image](CAARC_0_Streamline.png)
 
 
 <!--
