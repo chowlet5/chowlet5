@@ -4,9 +4,9 @@ I am interested in linking structural/wind engineering with computational method
 I enjoy teaching others to leverage the computational tools that are openly available to them in order to improve their workflows.
 
 ### Flow Visualization
-The following image is generating using a custom analysis pipeline which combines OpenFOAM, Paraview, and Blender.
+The following images is generating using a custom analysis pipeline which combines OpenFOAM, Paraview, and Blender.
 
-<img src="CAARC_0_Streamline.png" height="500">
+<img src="images/CAARC_0_Streamline_Blue_Orange.png" height="500">
 
 
 <!--
