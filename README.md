@@ -10,6 +10,12 @@ The following images are generating using a custom analysis pipeline which combi
 
 The following gif shows the streamline progression around the building.
 <img src="images/streamline.gif" height="500">
+
+### Aerodynamic Optimization
+A comparison of the flow around a square building and a building optimized to reduce the drag force. The custom optimization workflow uses a convolutional neural network (CNN) surrogate model coupled with a Genetic Algorithm to deterine the optimal shape. 
+<img src="images/drag_streamline.gif" height="500">
+
+
 <!--
 **chowlet5/chowlet5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
